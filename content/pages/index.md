@@ -19,7 +19,7 @@ sections:
         label: Learn More
         url: https://www.stackbit.com/
         style: secondary
-        - type: Button
+      - type: Button
         label: Contact us
         url: https://www.stackbit.com/
         style: primary
