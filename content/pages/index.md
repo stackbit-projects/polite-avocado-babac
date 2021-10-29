@@ -20,7 +20,7 @@ sections:
         url: https://www.stackbit.com/
         style: secondary
         - type: Button
-        label: Learn More
+        label: Contact Us
         url: https://www.stackbit.com/
         style: secondary
     feature:
