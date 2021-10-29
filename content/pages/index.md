@@ -21,7 +21,7 @@ sections:
         style: secondary
     feature:
       type: ImageBlock
-      url: "/images/contact.png"
+      url: "/images/bg.png"
       altText: Image alt text
       caption: Image caption
     styles:
